@@ -2,6 +2,8 @@
 
 Master's student at University of Waterloo under the supervision of [Levent Tuncel](https://www.math.uwaterloo.ca/~ltuncel/).
 
+Email: a483khan (at) uwaterloo (dot) ca
+
 ---
 
 ## Photos
@@ -13,13 +15,13 @@ Master's student at University of Waterloo under the supervision of [Levent Tunc
 
 ## Publications
 
-| Title | Venue | Year | Link |
-|--------|--------|------|------|
+
 <!-- | *Publication Title 1* | Journal / Conference | 202X | [Link](#) | -->
 
 ---
 
 ## CV
-
+<!--
 ```html
-<iframe src="path/to/your-cv.pdf" width="100%" height="600px"></iframe>
+<iframe src="path/to/your-cv.pdf" width="100%" height="600px"></iframe> 
+-->
