@@ -21,7 +21,7 @@ Under construction
 
 ---
 
-## CV
+## [CV](Amaan Khan - CV.pdf)
 <!--
 ```html
 <iframe src="path/to/your-cv.pdf" width="100%" height="600px"></iframe> 
