@@ -22,4 +22,4 @@ Under construction
 ---
 
 ## CV
-[PDF](Amaan Khan - CV.pdf)
+[CV](CVAmaanKhan.html)
