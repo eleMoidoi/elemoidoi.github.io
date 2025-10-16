@@ -8,9 +8,7 @@ Email: a483khan (at) uwaterloo (dot) ca
 
 ## Photos
 
-![Amaan Khan 2024](AmaanPic2024.jpg "Me, 2024")
-<!-- Add image links or embed a gallery here -->
-<!-- [2025 Selfie](path/to/photo1.jpg) -->
+[Amaan Khan 2024](AmaanPic2024.jpg "Me, 2024")
 
 ---
 
