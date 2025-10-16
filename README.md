@@ -21,5 +21,8 @@ Under construction
 
 ---
 
-## CV
 [CV](CVAmaanKhan.html)
+
+---
+
+## Personal
