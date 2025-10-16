@@ -22,9 +22,4 @@ Under construction
 ---
 
 ## CV
-```html
-<iframe src="Amaan Khan - CV.pdf" width="100%" height="600px"></iframe>
-<!--
-```html
-<iframe src="path/to/your-cv.pdf" width="100%" height="600px"></iframe> 
--->
+[PDF](Amaan Khan - CV.pdf)
