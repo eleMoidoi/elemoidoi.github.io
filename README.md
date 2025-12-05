@@ -23,8 +23,14 @@ Under construction
 
 ---
 
+## Conferences
+
+Midwest Optimization Meeting 24 (2022) - [MOM24](https://www.math.uwaterloo.ca/~hwolkowi/Univ.Waterloo.24thMidwestOptimizationMeeting.html)
+
+---
+
 ## Book Recommendations
-Currently trying to figure out how to add the math map without just pasting the .json file...
+Also under construction (I'm from Edmonton, construction is perpetual)
 
 ---
 
