@@ -23,6 +23,14 @@ Under construction
 
 ---
 
+## Current Interests
+I'm currently interested in:
+1) First-order interior-path following algorithms in hyperbolicity cones
+2) Variational Analysis (especially techniques in infinite-dimensions)
+3) Monotone Operator Theory in Hilbert spaces
+
+---
+
 ## Conferences
 
 Midwest Optimization Meeting 24 (2022) - [MOM24](https://www.math.uwaterloo.ca/~hwolkowi/Univ.Waterloo.24thMidwestOptimizationMeeting.html)
