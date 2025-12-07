@@ -26,8 +26,9 @@ Under construction
 ## Current Interests
 I'm currently interested in:
 1) First-order interior-path following algorithms in hyperbolicity cones
-2) Variational Analysis (especially techniques in infinite-dimensions)
-3) Monotone Operator Theory in Hilbert spaces
+2) Interior-path following algorithms in nonconvex cones
+3) Variational Analysis
+4) Monotone Operator Theory in Hilbert spaces
 
 ---
 
