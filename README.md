@@ -1,8 +1,10 @@
 # Amaan Khan
 
-Master's student at University of Waterloo under the supervision of [Levent Tuncel](https://www.math.uwaterloo.ca/~ltuncel/).
+PhD student at University of British Columbia Okanagan under the supervision of [Heinz Bauschke](https://bauschke.ca/)
 
-Email: a483khan (at) uwaterloo (dot) ca
+Email: amaan (dot) khan @ ubc (dot) ca
+
+Master of Mathematics (2026): University of Waterloo under the supervision of [Levent Tuncel](https://www.math.uwaterloo.ca/~ltuncel/)
 
 ---
 
@@ -13,9 +15,11 @@ Email: a483khan (at) uwaterloo (dot) ca
 ---
 
 ## Publications
-Under construction
+
+
 
 <!-- | *Publication Title 1* | Journal / Conference | 202X | [Link](#) | -->
+| *A Study of First-Order Primal-Dual Algorithms for Linear Optimization* | UWSpace | 2026 | [Master's Thesis](https://uwspace.uwaterloo.ca/items/1da61831-808f-409c-afcd-f1bbf02fcf5c/) |
 
 ---
 
@@ -25,10 +29,8 @@ Under construction
 
 ## Current Interests
 I'm currently interested in:
-1) First-order interior-path following algorithms in hyperbolicity cones
-2) Interior-path following algorithms in nonconvex cones
-3) Variational Analysis
-4) Monotone Operator Theory in Hilbert spaces
+1) First-order interior-point methods in convex domains
+2) Bregman Operator Splitting methods
 
 ---
 
