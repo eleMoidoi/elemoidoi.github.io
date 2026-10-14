@@ -17,6 +17,8 @@ Master of Mathematics (2026): University of Waterloo under the supervision of [L
 ## Publications
 
 <!-- | *Publication Title 1* | Journal / Conference | 202X | [Link](#) | -->
+| Title | Journal/Conference | Year | Link |
+| --- | --- | --- | --- |
 | *A Study of First-Order Primal-Dual Algorithms for Linear Optimization* | UWSpace | 2026 | [Master's Thesis](https://uwspace.uwaterloo.ca/items/1da61831-808f-409c-afcd-f1bbf02fcf5c/) |
 
 ---
