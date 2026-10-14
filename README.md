@@ -16,8 +16,6 @@ Master of Mathematics (2026): University of Waterloo under the supervision of [L
 
 ## Publications
 
-
-
 <!-- | *Publication Title 1* | Journal / Conference | 202X | [Link](#) | -->
 | *A Study of First-Order Primal-Dual Algorithms for Linear Optimization* | UWSpace | 2026 | [Master's Thesis](https://uwspace.uwaterloo.ca/items/1da61831-808f-409c-afcd-f1bbf02fcf5c/) |
 
@@ -37,7 +35,7 @@ I'm currently interested in:
 ## Conferences
 
 Midwest Optimization Meeting 24 (2022) - [MOM24](https://www.math.uwaterloo.ca/~hwolkowi/Univ.Waterloo.24thMidwestOptimizationMeeting.html)
-
+West Coast Optimization Meeting Fall 2026 - [WCOM26](https://jreaton.github.io/wcom2026)
 ---
 
 ## Book Recommendations
